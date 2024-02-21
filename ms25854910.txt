@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Office 365 - place in the website root",
-  "Domain": "leverageit.tech",
-  "Id": "0118e4ee-cda0-47a7-8e5a-f2087c9ceae6"
-}
